@@ -2,3 +2,4 @@
 def main():
     """first repo"""
     print("Hello World")
+main()
